@@ -10,6 +10,8 @@ To follow along with the step-by-step instructions in the Essentials module, you
 
 Click Create repository from template and we’re ready to build our first Actions workflow!
 
+Mais um teste.
+
 
 
 If you have arrived here from the [Intermediate automation strategies with GitHub Actions](https://resources.github.com/learn/pathways/automation/intermediate/workflow-automation-with-github-actions/) module without following the first module, copy the contents of the `/demo-files` folder into the `.github/workflows` folder to follow along.
